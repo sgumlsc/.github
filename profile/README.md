@@ -1,8 +1,8 @@
 # Microsoft Learn Student Club (MLSC) GitHub Repository
 
-Welcome to the official GitHub repository of the **Microsoft Learn Student Club (MLSC)** at **Sanjay Ghodawat University**! 🚀
+Welcome to the official GitHub repository of the **Microsoft Learn Student Club (MLSC)** at **Sanjay Ghodawat University**! 
 
-## 📌 About MLSC
+##  About MLSC
 MLSC is a student-driven technical community that empowers learners to explore, build, and innovate with Microsoft technologies and beyond. We focus on fostering a collaborative environment where students can engage in hands-on projects, workshops, and tech events.
 
 
